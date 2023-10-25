@@ -1,6 +1,6 @@
 # Praktikum 3
 # Flowchart
-![Alt text](image.png)
+![Alt text](image22.png)
 
 ## menghitung luas dan keliling lingkaran menggunakan Python
 
